@@ -1,0 +1,2 @@
+# line_bot_aggregator
+ファイルをまとめてメールで送信するだけ
